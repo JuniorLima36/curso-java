@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Exemplos"/>
+	<classpathentry kind="src" path="Modulo1 - EstruturaSequencial"/>
+	<classpathentry kind="src" path="Modulo2 - EstruturaCondicional"/>
+	<classpathentry kind="src" path="Modulo3 - EstruturasRepetitivas"/>
+	<classpathentry kind="src" path="Modulo4 - OutrosTopicos"/>
+	<classpathentry kind="src" path="Modulo5 - ClassesAtributosMembrosStaticos"/>
+	<classpathentry kind="src" path="Modulo6 - ConstrutoresThisSobrecargaEncapsulamento"/>
+	<classpathentry kind="src" path="Modulo7 - MemoriaArraysListas"/>
+	<classpathentry kind="src" path="Modulo8 - Enumerações e Composição"/>
+	<classpathentry kind="src" path="Modulo9 - TratamentoDeExceções"/>
+	<classpathentry kind="src" path="Modulo10 - Arquivos"/>
+	<classpathentry kind="src" path="Modulo11 - Interfaces"/>
+	<classpathentry kind="src" path="Modulo12 - Generics,Set,Map"/>
+	<classpathentry kind="src" path="Modulo13 - PrograFuncional,ExpressãoLambda"/>
+	<classpathentry kind="src" path="Modulo14 - data hora"/>
+	<classpathentry kind="src" path="Modulo15 - Herança e polimorfismo"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
